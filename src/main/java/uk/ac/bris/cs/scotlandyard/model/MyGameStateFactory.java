@@ -71,6 +71,8 @@ public final class MyGameStateFactory implements Factory<GameState> {
 				}
 			}
 
+			System.out.println("Working flow");
+
 
 
 		}
